@@ -30,12 +30,11 @@ Than put all tokens in a file in a file (*`Tokens.txt`*) which is located in you
 
 *Main Website* [__Here__](http://project-jade.unaux.com/index.html).
 
-# Donate BTC Or Though Patreon
+# Donate ETH Or Though Patreon
 
 [Patreon](https://www.patreon.com/lucifersangel)
 
 
-*1NzYXCsSvgPpxJvM9DR8K5j5WPHu1Bii2E*
+*0x547560603Bc159d3C0D20Ce0c2daaF109Eeb09FD*
 
-![BTC](https://i.ibb.co/NpknkWc/Ql-RDIFdhb-Gxld-A.png)
 
